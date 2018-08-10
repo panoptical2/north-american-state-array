@@ -1,6 +1,6 @@
 {
   "name": "north-american-state-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an array containing Canadian, Mexican, and American states and territories and their postal codes.",
   "main": "index.js",
   "scripts": {
