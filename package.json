@@ -1,0 +1,27 @@
+{
+  "name": "north-american-state-array",
+  "version": "1.0.0",
+  "description": "This is an array containing Canadian, Mexican, and American states and territories and their postal codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panoptical2/north-american-state-array.git"
+  },
+  "keywords": [
+    "states",
+    "usa",
+    "canada",
+    "mexico",
+    "territories",
+    "array"
+  ],
+  "author": "Nathan Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panoptical2/north-american-state-array/issues"
+  },
+  "homepage": "https://github.com/panoptical2/north-american-state-array#readme"
+}
